@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuandF4
-- 👀 I’m interested in lua, expression 2 and html
-- 🌱 I’m currently learning html
+- 👀 I’m interested in Lua, Expression 2 ,HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: telegram @QuandF
 - ⚡ Fun fact: i love Garry's mod
 
